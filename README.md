@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aashka21
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning flask framework
+- 🌱 I’m currently learning flask framework & javascript
 - 💞️ I’m looking to collaborate on any web development/web designing project 
 - 📫 How to reach me- 
   gmail: ashkazaveri69@gmail.com,
